@@ -1,6 +1,17 @@
 
-tr , th {
+tr , th , main , footer , aside {
     border: 2px solid black;
+    background-color: white;
 }
 
-
+img {
+    height: 10%;
+}
+    
+h1 {
+    color: white;
+}
+ 
+header {
+    background-image: url("https://c8.alamy.com/compfr/pf3pex/code-source-de-bureau-et-technologie-contexte-developpeur-ou-programmeur-en-matiere-de-codage-et-de-programmation-le-papier-peint-par-le-langage-informatique-et-le-code-source-com-pf3pex.jpg");
+}
