@@ -6,3 +6,8 @@ table {
     width: 100%    
 }
 
+footer  > img {
+    width: 5%;
+    height: auto;
+
+}
