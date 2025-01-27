@@ -11,3 +11,13 @@ footer  > img {
     height: auto;
 
 }
+
+main > img , p {
+
+    text-align: center;
+  
+}
+
+h3 {
+    text-align: center;  
+}
