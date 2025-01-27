@@ -33,15 +33,22 @@ height:500px;
 
 }
 
-.container > .image2 {
 
-text-align: right;
-}
 
-main > ol > li {
-    
+main > ol > li { 
     height:50px;
     font-weight: bold;
+}
+
+.container {
+   margin-right: 10px;
+
+
+}
+
+.image2 {
+
+    object-position: right top;
 }
 
 
