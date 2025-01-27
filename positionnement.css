@@ -24,7 +24,24 @@ h3 {
 }
 
  
-img { 
+.container {
 
-    
+display: flex;
+justify-content: space-between;
+width:500px;
+height:500px;
+
 }
+
+.container > .image2 {
+
+text-align: right;
+}
+
+main > ol > li {
+    
+    height:50px;
+    font-weight: bold;
+}
+
+
