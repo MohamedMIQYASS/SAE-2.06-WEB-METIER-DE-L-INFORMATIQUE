@@ -33,8 +33,6 @@ height:500px;
 
 }
 
-
-
 main > ol > li { 
     height:50px;
     font-weight: bold;
@@ -56,4 +54,12 @@ ul > img {
 
     width: 30%;
     height:auto;
+    
 }
+
+img {
+    margin-right: 0;
+}
+
+
+
