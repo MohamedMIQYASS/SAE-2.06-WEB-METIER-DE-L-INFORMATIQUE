@@ -6,6 +6,7 @@ tr , th , main , footer , aside {
   
 h1 {
     color: greenyellow;
+    font-family: My font;
 }
  
 header {
@@ -16,3 +17,17 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+main > article {
+
+    font: papyrus;
+}
+
+@font-face {
+    font-family: My font;
+    src: url(SupremeSpike-KVO8D.otf);
+}
+
+h2 {
+    color: black;
+    font-family: My font;
+}
