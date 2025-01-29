@@ -61,5 +61,11 @@ img {
     margin-right: 0;
 }
 
+footer > a > img {
+
+    width: 60px;
+    height:auto;
+    
+}
 
 
