@@ -68,4 +68,8 @@ footer > a > img {
     
 }
 
+div > video {
+    
+    width:max-content;
+}
 
