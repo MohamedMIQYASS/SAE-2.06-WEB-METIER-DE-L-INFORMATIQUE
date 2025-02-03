@@ -30,6 +30,7 @@ main > article {
 h2 {
     color: black;
     font-family: My font;
+    font-size:3em;
 }
 
 body {
