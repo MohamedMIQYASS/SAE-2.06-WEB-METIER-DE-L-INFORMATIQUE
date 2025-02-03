@@ -84,6 +84,8 @@ div > video {
 #reseaux_article_section{
     flex-basis: 80%;
     border-style: solid;
+    margin: 1rem;
+    padding: 1rem;
     border-color: blue;
 }
 #reseaux_article_aside{
