@@ -49,3 +49,7 @@ td {
 .imageArrondie {
     border-radius: 3%;
 }
+
+#titre {
+    color : white;
+}
