@@ -73,3 +73,43 @@ div > video {
     width:max-content;
 }
 
+#reseaux_main{
+    display: flex;
+    flex-wrap: nowrap;
+    border-style: solid;
+    border-color: red;
+}
+
+
+#reseaux_article_section{
+    flex-basis: 80%;
+    border-style: solid;
+    border-color: blue;
+}
+#reseaux_article_aside{
+    
+    flex-grow: 1;
+    border-style: solid;
+    border-color: green;
+    
+}
+
+#reseaux_section{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-grow: 0;
+    border-style: solid;
+    border-color: blueviolet;
+    
+}
+
+#reseaux_img{
+    margin: 0.2%;
+    border: solid;
+    border-radius: 10%;
+}
+
+#reseaux_aside{
+    flex-grow: 1;
+}
+
