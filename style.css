@@ -28,15 +28,19 @@ main > article {
 }
 
 h2 {
-    color: black;
+    color: white;
     font-family: My font;
     font-size:3em;
 }
 
 body {
 
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.726);
 }
+article{
+    background-color: cornsilk;
+    opacity: 50%;}
+
 a {
     text-decoration: none;
 }
