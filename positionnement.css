@@ -89,7 +89,7 @@ div > video {
     border-color: blue;
 }
 #reseaux_article_aside{
-    
+    position: fixed;
     flex-grow: 1;
     border-style: solid;
     border-color: green;
