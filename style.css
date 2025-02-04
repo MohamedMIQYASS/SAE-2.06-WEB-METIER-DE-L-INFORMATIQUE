@@ -17,3 +17,44 @@ header {
 body {
     font-family: 'Courier New', Courier, monospace;
 }
+
+main > article {
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+@font-face {
+    font-family: My font;
+    src: url(SupremeSpike-KVO8D.otf);
+}
+
+h2 {
+    color: black;
+    font-family: My font;
+    font-size:3em;
+}
+
+body {
+
+    background-color: black;
+}
+a {
+    text-decoration: none;
+}
+
+td {
+    padding : 3px;
+    border: solid black 2px;
+}
+
+.imageArrondie {
+    border-radius: 3%;
+}
+
+#titre {
+    color : white;
+}
+
+footer {
+    text-align: center;
+}
