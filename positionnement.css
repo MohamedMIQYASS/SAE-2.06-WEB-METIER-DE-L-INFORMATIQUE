@@ -60,6 +60,7 @@ main > ol > li {
 }
 
 
+
 li  > video {
 
     width: 95%;
@@ -82,6 +83,7 @@ div > video {
     
     width:max-content;
 }
+
 
 article {
     display: flex;
@@ -148,9 +150,60 @@ h2 {
     font-size: 150%;
 }
 
+<<<<<<< HEAD
 
 footer {
     
     justify-content:center;
     text-align: center;
 }
+=======
+footer {
+    justify-content: center; 
+}
+        
+
+
+
+#reseaux_main{
+    display: flex;
+    flex-wrap: nowrap;
+    border-style: solid;
+    border-color: red;
+}
+
+
+#reseaux_article_section{
+    flex-basis: 80%;
+    border-style: solid;
+    margin: 1rem;
+    padding: 1rem;
+    border-color: blue;
+}
+#reseaux_article_aside{
+    position: fixed;
+    flex-grow: 1;
+    border-style: solid;
+    border-color: green;
+    
+}
+
+#reseaux_section{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-grow: 0;
+    border-style: solid;
+    border-color: blueviolet;
+    
+}
+
+#reseaux_img{
+    margin: 0.2%;
+    border: solid;
+    border-radius: 10%;
+}
+
+#reseaux_aside{
+    flex-grow: 1;
+}
+>>>>>>> 325bd4d63d5642fdb79abb3dfb31601a683dbd29
