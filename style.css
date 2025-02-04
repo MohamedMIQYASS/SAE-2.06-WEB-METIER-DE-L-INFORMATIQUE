@@ -61,3 +61,7 @@ main {
     left: 0;
     bottom: 0;
 }
+
+footer {
+    text-align: center;
+}
