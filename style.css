@@ -17,7 +17,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
-#article_accueil {
+main > article {
 
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -50,16 +50,8 @@ td {
     border-radius: 3%;
 }
 
-main {
-    background-repeat:url(background.mp4) ;
-}
-
-#video_background {
-    position: fixed;
-    top: 0;
-    right: 0;
-    left: 0;
-    bottom: 0;
+#titre {
+    color : white;
 }
 
 footer {
