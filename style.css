@@ -28,7 +28,7 @@ main > article {
 }
 
 h2 {
-    color: white;
+    color: black;
     font-family: My font;
     font-size:3em;
 }
@@ -37,9 +37,7 @@ body {
 
     background-color: rgba(0, 0, 0, 0.726);
 }
-article{
-    background-color: cornsilk;
-    opacity: 50%;}
+
 
 a {
     text-decoration: none;
