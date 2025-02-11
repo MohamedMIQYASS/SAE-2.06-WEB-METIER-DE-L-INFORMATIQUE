@@ -210,3 +210,9 @@ footer {
 .mutliLigne {
     display: block;
 }
+
+.imageArrondie {
+    width: 30%;
+    height: 30%;
+   
+}
