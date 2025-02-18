@@ -36,10 +36,16 @@ nav {
 .nav a{
     color: black
 }
-
 .nav li:hover {
     background: greenyellow; 
-    color: white;
+}
+.nav .couleur, .nav .couleur:hover { 
+    background: greenyellow; 
+    border-radius: 10px;
+}
+
+main > p{
+    text-align: center;
 }
 
 table {
@@ -76,6 +82,7 @@ article section {
     flex-basis: 27%;
     flex-grow: 1;
 }
+
 
 
 video {
