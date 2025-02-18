@@ -78,7 +78,7 @@ article section {
     border-radius: 3%;
 }
 
-#article_accueil section{
+.article_accueil section{
     flex-basis: 27%;
     flex-grow: 1;
 }
