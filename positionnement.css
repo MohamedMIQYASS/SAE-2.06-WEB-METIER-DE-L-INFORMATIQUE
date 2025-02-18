@@ -24,42 +24,6 @@ h3 {
     text-align: center;  
 }
 
- 
-.container {
-
-display: flex;
-justify-content: space-between;
-width:500px;
-height:500px;
-
-}
-
-main > ol > li { 
-    height:50px;
-    font-weight: bold;
-    
-}
-
-.container {
-    margin : 2%;
-    padding: 1%;
-    display: flex;
-    flex-wrap:nowrap ; 
-}
-
-.container > video {
-    margin: 1%;
-    border: solid;
-    flex-basis: 50%;
-    flex-grow: 1;
-} 
-
-
-.image2 {
-
-    object-position: right top;
-}
-
 
 li  > video {
 
