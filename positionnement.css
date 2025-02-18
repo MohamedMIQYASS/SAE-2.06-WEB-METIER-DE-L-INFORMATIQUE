@@ -101,7 +101,8 @@ article section {
     padding:1rem;
     flex-basis: 50%;
     flex-grow: 1;
-    border: solid;
+
+    border-radius: 3%;
 }
 
 
