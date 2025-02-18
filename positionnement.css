@@ -15,30 +15,43 @@ h4 {
 
 }
 
+nav {
+    background-color: white;   
+ 
+
+}
+
+.nav {
+    list-style: none;
+    display: flex;
+    justify-content: center; 
+}
+
+.nav li {
+    margin : 0.3rem;
+    padding-inline : 5rem;
+    border-radius: 10px;
+    transition: all 0.3s ease; 
+}
+.nav a{
+    color: black
+}
+
+.nav li:hover {
+    background: greenyellow; 
+    color: white;
+}
+
 table {
     width: 90rem ;
     margin : 1rem;  
 }
 
+td,th{
+    margin: 1rem;
+    border-radius: 0.3rem;
+    border: solid 2px;
 
-
-
-li  > video {
-
-    width: 95%;
-    height:auto;
-    
-}
-
-img {
-    margin-right: 0;
-}
-
-footer > a > img {
-
-    width: 60px;
-    height:auto;
-    
 }
 
 article {
@@ -53,7 +66,7 @@ article h3 {
 
 article section {
     margin : 1rem;
-    padding:1rem;
+    padding: 1rem;
     flex-basis: 50%;
     flex-grow: 1;
     border-radius: 3%;
@@ -65,11 +78,12 @@ article section {
 }
 
 
-
-
-
 video {
     margin : 1rem;
+}
+
+li  > video {
+    height: 15rem;
 }
 
 
@@ -78,33 +92,23 @@ video {
     flex-wrap: nowrap;
 }
 
-
 #index > li {
     flex-grow: 1;
     flex-basis: 30%;
 }
 
-
-
-
-
-table, td,th{
-    margin: 1rem;
-    border-radius: 0.3rem;}
-
+.imageArrondie {
+    width: 30%;
+    height: 30%;
+    border-radius: 3%;
+}
 
 footer {
     justify-content:center;
     text-align: center;
 }
 
-
-.mutliLigne {
-    display: block;
-}
-
-.imageArrondie {
-    width: 30%;
-    height: 30%;
-   
+footer > a > img {
+    width: 60px;
+    height:auto;   
 }
