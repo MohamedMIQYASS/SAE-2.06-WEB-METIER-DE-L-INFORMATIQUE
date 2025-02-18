@@ -87,13 +87,13 @@ div > video {
 article {
     display: flex;
     flex-wrap: wrap;
-    border: solid;
+ 
     margin : 1rem;
 }
 
 article h3 {
     flex-basis : 100%;
-    border: solid;
+
 }
 
 article section {
@@ -101,7 +101,6 @@ article section {
     padding:1rem;
     flex-basis: 50%;
     flex-grow: 1;
-
     border-radius: 3%;
 }
 
@@ -153,8 +152,8 @@ h2 {
 }
 
 
-table td , table th {
-    border-radius: 10%;
+th, td {
+    border-radius: 3%;
 }
 
 
