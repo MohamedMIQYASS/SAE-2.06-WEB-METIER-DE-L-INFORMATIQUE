@@ -83,10 +83,9 @@ article section {
     flex-grow: 1;
 }
 
-
-
 video {
     margin : 1rem;
+    border-radius:10px;
 }
 
 li  > video {
@@ -113,6 +112,8 @@ li  > video {
 footer {
     justify-content:center;
     text-align: center;
+    margin-top: 0.5rem;
+    border-radius: 10px;
 }
 
 footer > a > img {
