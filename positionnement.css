@@ -131,7 +131,7 @@ h4 {
 }
 
 video {
-    margin : 0.5rem;
+    margin : 1rem;
 }
 
 
@@ -152,9 +152,9 @@ h2 {
 }
 
 
-th, td {
-    border-radius: 3%;
-}
+table, td,th{
+    margin: 1rem;
+    border-radius: 0.3rem;}
 
 
 footer {
