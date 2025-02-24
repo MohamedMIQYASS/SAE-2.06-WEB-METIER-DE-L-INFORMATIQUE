@@ -60,7 +60,7 @@ table {
 
 td,th{
     margin: 1rem;
-    border-radius: 0.3rem;
+    border-radius: 10px;
     border: solid 2px;
 
 }
@@ -80,7 +80,7 @@ article section {
     padding: 1rem;
     flex-basis: 50%;
     flex-grow: 1;
-    border-radius: 3%;
+    border-radius: 10px;
 }
 
 .article_accueil section{
@@ -113,7 +113,7 @@ li  > a > video {
 .imageArrondie {
     width: 30%;
     height: 30%;
-    border-radius: 3%;
+    border-radius: 10px;
 }
 
 footer {
