@@ -15,9 +15,12 @@ h4 {
 
 }
 
+header{
+    border-radius: 10px;
+}
 nav {
     background-color: white;   
- 
+    border-radius: 10px;
 
 }
 
