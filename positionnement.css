@@ -100,12 +100,14 @@ li  > a > video {
 
 #index {
     display: flex;
+    flex-basis: 100%;
     flex-wrap: nowrap;
+ 
 }
 
-#index > li {
+#index li {
     flex-grow: 1;
-    flex-basis: 30%;
+    flex-basis: 100%;
 }
 
 .imageArrondie {
